@@ -1,4 +1,4 @@
-# minimal-redirect-page
+# Minimal Redirect Page
 A minimal redirect html page to redirect old website address to a new one.
 
 
